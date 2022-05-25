@@ -3,6 +3,6 @@ Django - python
 Bootstrap
 mysql
 
-- se realiza la instalacion de python y dijango y se crea un fichero contenedor como proyecto general
+- Se realiza la instalacion de python y dijango y se crea un fichero contenedor como proyecto general
 - En la carpeta creada se guarda la carpeta env y Web, uno siendo el entorno virtual y el otro siendo el proyecto en sí, respectivamente.
 - se levanta proyecto ejecutando por debug archivo manage.py contenido en la carpeta Web
